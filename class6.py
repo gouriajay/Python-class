@@ -11,5 +11,4 @@ for students in attendance:
         print("Not Full") 
         
 print(full_days) 
-print(total_attendance)         
-        
+print(total_attendance)   
